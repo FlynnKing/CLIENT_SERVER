@@ -31,3 +31,5 @@ print("il totale del Laptop prezzo è: ")
 print(item2.calculate_total_price())
 print(Item.all_items)
 
+print()
+
